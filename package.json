@@ -7,7 +7,7 @@
 	"author"      :  "Philip Tellis <philip@bluesmoon.info> (http://bluesmoon.info/)",
 	"files"       :  ["lib/", "data/", "test/","scripts/"],
 	"main"        :  "lib/geoip.js",
-	"repository"  :  { "type": "git", "url": "git://github.com/bluesmoon/node-geoip.git" },
+	"repository"  :  { "type": "git", "url": "git://github.com/incrowdads/node-geoip.git" },
 	"engines"     :  { "node": ">=0.6.3" },
 	"scripts": {
 		"test": "nodeunit --reporter=minimal test/tests.js",
